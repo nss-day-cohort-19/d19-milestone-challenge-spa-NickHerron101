@@ -1,0 +1,11 @@
+div.cool{
+	border: 3px solid black;
+	margin: 5px;
+	width: 28%;
+}
+
+div.blue {
+	background-color: lightblue;
+	border: 10px solid black;
+}
+

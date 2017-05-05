@@ -1,0 +1,69 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Toyota",
+      "model": "Tundra",
+      "year": "2011",
+      "price": "12,000",
+      "description": "This is a truck that can really move a lot of stuff....yay for this truck."
+    },
+    {
+      "make": "Ford",
+      "model": "Taurus",
+      "year": "1995",
+      "price": "1800",
+      "description": "This is basically a car that is on its last legs but it'd be good to have around because it's whatever man.."
+    },
+    {
+      "make": "Jeep",
+      "model": "Cherokee",
+      "year": "2007",
+      "price": "7000",
+      "description": "This one is cool to have if you want to get go off roading and camping. Throw your stuff in there too."
+    },
+    {
+      "make": "Dolorean",
+      "model": "D1",
+      "year": "1985",
+      "price": "500,000",
+      "description": "Price is steep but you will be able to timr travel with the built in flex-capicitor."
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang",
+      "year": "2000",
+      "price": "5000",
+      "description": "This car still accelerates like no other. Have fun racing on the freeway."
+    },
+    {
+      "make": "Studebaker",
+      "model": "Studebaker Original",
+      "year": "1957",
+      "price": "20,000",
+      "description": "Kermit the frog and Fozzy would be proud."
+    },
+    {
+      "make": "Dodge",
+      "model": "Caravan",
+      "year": "1999",
+      "price": "2000",
+      "description": "Soccer moms of the 90's....UNITE."
+    },
+    {
+      "make": "ShiteCar",
+      "model": "ShitWagon",
+      "year": "1986",
+      "price": "5",
+      "description": "This is a complete shit wagon that no one would want but does only cost 5 bucks, so why not."
+    }
+  ]
+}
+
+
